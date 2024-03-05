@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "85229186016",
+    "project_id": "rent-fix",
+    "storage_bucket": "rent-fix.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85229186016:android:664801809fcdff39411985",
+        "android_client_info": {
+          "package_name": "com.example.rent_fix"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuRXNX8gERq0jfGYo1JOkvVnVudKfr5XA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
