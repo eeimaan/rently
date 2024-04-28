@@ -1,4 +1,5 @@
 # RentFix - Property Rental App
+![Easy to Customize with Custom Widgets (10)](https://github.com/eeimaan/rently/assets/69849967/9e996004-0723-443f-994b-4fc0815c3a6c)
 
 ## About
 RentFix is your go-to app for finding the perfect rental property. Whether you're looking for a cozy apartment, a spacious house, or a trendy loft, RentFix connects you with property owners who have listings that match your preferences. Property owners can easily post details about their rental properties, and users can browse, inquire, and even sign contracts right from the app.
